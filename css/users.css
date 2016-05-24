@@ -1,0 +1,4 @@
+#author{padding: 12px;width: 100%;}
+.users_post{width: 100%;padding: 5px;border: 1px solid #dfdfdf;margin: 10px 0;}
+.featured_thumb{ display: inline-block;max-width: 18%;}
+.users_post_title{display: inline-block;vertical-align: top;font-size: 21px;max-width: 82%;padding: 5px 12px;}
